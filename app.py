@@ -4,7 +4,7 @@ import streamlit as st
 from PIL import Image 
 from segment import process
 
-st.title('Распознавание MIST')
+st.title('Распознавание MNIST')
 
 image_file = st.file_uploader('Загрузить изображение', type=['png', 'jpg']) # Добавляем загрузчик файлов
 
