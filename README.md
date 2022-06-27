@@ -1,4 +1,0 @@
-# MNIST
-# MNIST
-# MNIST
-# MNIST
